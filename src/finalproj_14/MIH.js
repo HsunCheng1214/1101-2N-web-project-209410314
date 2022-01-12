@@ -18,7 +18,7 @@ function MIH() {
                 </span>
                 <span class="ant-breadcrumb-separator">/</span>
                 <span class="ant-breadcrumb-link">
-                  <a href="#">新訊</a>
+                  <a href="#">MIH-finproject</a>
                 </span>
               </span>
             </div>
